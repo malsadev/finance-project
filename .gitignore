@@ -1,1 +1,4 @@
 /finance-project.pem
+/venv
+/.env
+/test
